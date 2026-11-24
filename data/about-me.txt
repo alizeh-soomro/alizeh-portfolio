@@ -1,0 +1,31 @@
+Alizeh Soomro is a Computer Science student specializing in Gaming and Animation at NED University of Engineering & Technology, Karachi, Pakistan (2023 batch). She is a game developer, UI/UX designer and video editor.
+
+Education: BS Computer Science (Gaming and Animation), NED University of Engineering & Technology, Karachi. Coursework includes game development, computer architecture, networking, databases, VR/AR design and algorithms.
+
+Skills: Unreal Engine, Unity, Three.js, JavaScript, UI/UX design, Canva, video editing, game design, AR/VR, Blender, After Effects, Node.js, databases and algorithms.
+
+Interests: video editing, game jams, designing interfaces, and building game worlds.
+
+Project - Eat Right Run: a game where the player runs and eats healthy food. The health bar decreases when the player eats unhealthy food.
+
+Project - Monster Runner: a fast-paced endless runner game.
+
+Project - Shoot the Box: an AR/VR shooting game where the player shoots boxes.
+
+Project - Masketeer: a game set in two parallel worlds, a safe but incomplete real world and a dangerous underworld visible only when the player wears a magical mask. The underworld is a maze filled with traps, enemies and coins. Players collect keys to unlock paths in the real world and complete the level.
+
+Project - Algorithm and Time Analysis Visualizer: animates how different algorithms work and tracks their performance using real-time graphs. Built for the Design and Analysis of Algorithms course with teammate Aasia Asadullah.
+
+Project - Little Margins: a group journaling mobile app built for the CT-409 Mobile Application and Development course.
+
+Project - Three.js Minecraft-style game: a browser voxel game with raycasting for block interaction.
+
+Project - NoorQuest: a game design document written to the Unity GDD template.
+
+Project - This portfolio: an interactive 3D web portfolio with a custom avatar, promo video, RAG chatbot and email contact system.
+
+Achievement: Alizeh's team, Team 5 Braincells, won 2nd position at the Global Game Jam organized by CEGA (Center of Excellence in Gaming and Animation), representing Gaming and Animation of the CSIT department. This qualifies them for the next round in Islamabad, where the top teams from CEGA Karachi face CEGA Lahore. Their game was Masketeer.
+
+Experience: Alizeh worked at a startup at CEGA as a UI/UX designer on Moral Triage, a hospital simulation game.
+
+Contact: use the contact form on this website to reach Alizeh.
